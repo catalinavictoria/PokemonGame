@@ -8,3 +8,10 @@ I came up with this game as my final project for an Intermediate Programming cla
 
 # Screenshots
 
+![Alt text](https://user-images.githubusercontent.com/56621823/89671199-6850ab80-d897-11ea-9cc6-5071b7103b14.png) ![Alt text](https://user-images.githubusercontent.com/56621823/89671205-6b4b9c00-d897-11ea-9019-e0886948c261.png) ![Alt text](https://user-images.githubusercontent.com/56621823/89672263-40624780-d899-11ea-84c8-8f77f6314b9f.png) ![Alt text](https://user-images.githubusercontent.com/56621823/89672271-435d3800-d899-11ea-9b9a-10e0b61845f3.png)
+
+# Tech/Framework used
+
+For building this game, I used an object-oriented programming approach.
+
+**Built using:** [Eclipse IDE](https://www.eclipse.org/ide/)
